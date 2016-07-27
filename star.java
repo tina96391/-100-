@@ -1,11 +1,11 @@
 /*
  * Program Name: star.java
- * Purpose: ¦L¥Xª÷¦r¶ğ
-		*
+ * Purpose: å°å‡ºé‡‘å­—å¡”
+            *
 	   *** 
 	  *****
 	 *******
- * Author: À¹­§®x
+ * Author: æˆ´éƒåº­
  * Date: 2016/06/30
  * Last Update: 2016/06/30
 */
@@ -15,7 +15,7 @@ import java.util.*;
 public class star{
 	public static void main(String[] args){
 		Scanner in =new Scanner(System.in);
-		System.out.print("¿é¤Jª÷¦r¶ğ°ª«×:");
+		System.out.print("è¼¸å…¥é‡‘å­—å¡”é«˜åº¦:");
 		int n=in.nextInt();
 		
 		for(int i=1;i<=n;i++){
