@@ -1,3 +1,5 @@
-#JAVA  #practice
+use JAVA
 
 看書練習！
+
+「解決100個歷史上的數學難題」
