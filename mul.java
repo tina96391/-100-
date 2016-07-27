@@ -1,7 +1,7 @@
 /*
  * Program Name: mul.java
- * Purpose: ¤E¤E­¼ªkªí
- * Author: À¹­§®x
+ * Purpose: å°å‡ºä¹ä¹ä¹˜æ³•è¡¨
+ * Author: æˆ´éƒåº­
  * Date: 2016/06/30
  * Last Update: 2016/06/30
 */
